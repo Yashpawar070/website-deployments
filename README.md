@@ -132,3 +132,8 @@ Through this project, I learned how to launch and manage an EC2 instance, config
 Aspiring DevOps & Cloud Engineer 🚀
 
 Learning AWS, Linux, Shell Scripting, Docker, Kubernetes and CI/CD.
+
+
+<img width="1280" height="832" alt="Screenshot 2026-06-22 at 15 53 20" src="https://github.com/user-attachments/assets/58dfb445-59ac-43b5-acab-9e62fdbbe306" />
+
+
